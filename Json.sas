@@ -1,3 +1,6 @@
+##Station ISS 
+##Coordonnées de Lille
+
 proc http
  url= 'http://api.open-notify.org/iss-pass.json?lat=50.6329700&lon=3.0585800'
  method="GET"
